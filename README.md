@@ -11,7 +11,7 @@ The goal of the sessions is to create a simple, efficient, psychologically safe 
 ---
 # Index 
 
-2022-11-16 [Platform and dServices](sessions/2022-11-16.md) 
+[2022-11-16](sessions/2022-11-16.md) Topic: Platform and dServices
 
 
 
