@@ -8,7 +8,7 @@ The goal of the sessions is to create a simple, efficient, psychologically safe 
 - Explorer
 - SDK (and Kernel)
 
-If you wish to participate in the sessions, just go to the Decentraland [Discord]((https://discord.com/channels/417796904760639509/948230185457696820) and check the Events section. 
+If you wish to participate in the sessions, just go to the Decentraland [Discord](https://discord.com/channels/417796904760639509/948230185457696820) and check the Events section. 
 
 ---
 # Index 
