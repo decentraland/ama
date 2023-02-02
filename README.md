@@ -20,3 +20,4 @@ If you wish to participate in the sessions, just go to the Decentraland [Discord
 - [2022-12-07](sessions/2022-12-07.md) Topic: dApps
 - [2023-01-11](sessions/2023-01-11.md) Topic: Platform and dServices
 - [2023-01-25](sessions/2023-01-25.md) Topic: Explorer
+- [2023-02-01](sessions/2023-02-01.md) Topic: dApps
