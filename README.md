@@ -23,3 +23,4 @@ If you wish to participate in the sessions, just go to the Decentraland [Discord
 - [2023-02-01](sessions/2023-02-01.md) Topic: dApps
 - [2023-02-08](sessions/2023-02-08.md) Topic: Platform and dServices
 - [2023-02-15](sessions/2023-02-15.md) Topic: SDK
+- [2023-03-08](sessions/2023-03-08.md) Topic: dApps
