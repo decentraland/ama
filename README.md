@@ -25,5 +25,5 @@ If you wish to participate in the sessions, just go to the Decentraland [Discord
 - [2023-02-15](sessions/2023-02-15.md) Topic: SDK
 - [2023-03-08](sessions/2023-03-08.md) Topic: dApps
 - [2023-03-30](sessions/2023-03-30.md) Topic: Platform and dServices
-- [2023-04-01](sessions/2023-04-01.md) Topic: Explorer
+- [2023-04-13](sessions/2023-04-13.md) Topic: Explorer
 - [2023-04-20](sessions/2023-04-20.md) Topic: dApps
